@@ -1,0 +1,20 @@
+{
+  // See http://go.microsoft.com/fwlink/?LinkId=827846
+  // for the documentation about the extensions.json format
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "amodio.tsl-problem-matcher",
+    "grimmer.vscode-back-forward-button",
+    "spencerwmiles.vscode-task-buttons",
+    "seunlanlege.action-buttons",
+    "stuartthomson.vscode-buttons",
+    "kconway.vscode-undo-buttons",
+    "gruntfuggly.activitusbar",
+    "nick-rudenko.back-n-forth",
+    "jerrygoyal.shortcut-menu-bar",
+    "gsppvo.vscode-commandbar",
+    "scotthew.go-nav-bar",
+    "smartertomato.locate-this-document",
+    "cseelye.vscode-allofthem"
+  ]
+}
